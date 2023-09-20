@@ -1,1 +1,4 @@
-# Statistical-Analysis-of-Natural-Resources-Contribution-to-GDP-in-African-Countries
+# Statistical-Analysis-of-Natural-Resources-Contribution-to-GDP-in-African-Countries Using R
+
+
+Majority of the African country still striving to attain social and economic development. In view of this, we try to understand the contribution of the different natural resources to the GDP in some African countries. Also, we compare the two regions.To achieve this goal, we employ the use of different statistical analyses to help us understand the trends and patterns of the dataset. The statistical analyses employed are descriptive analysis to understand the summary of the dataset, correlation analysis to understand the relationship between each of the indicators, regression analysis to build a multiple linear regression model, time series analysis, and forecasting to predict any future trend in the Natural resource GDP.
